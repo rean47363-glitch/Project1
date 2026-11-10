@@ -1,4 +1,4 @@
 a=1
-a=2
-a=a+b
-print(a)
+b=2
+c=a+b
+print(c)
